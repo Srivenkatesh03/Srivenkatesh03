@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 Working on: AWS EC2 automation using Python & Ansible<br>🤝 Collaborate on: DevOps & cloud automation projects<br>🆘 Need help with: Kubernetes & Terraform<br>🌱 Learning: Docker, Ansible, CI/CD pipelines<br>💬 Ask me about: Python scripts, Linux, AWS, Git<br>⚡ Fun fact: I automate everything—even my morning reminders!
+🛠 Working on: AWS EC2 automation using Python & Ansible<br>🤝 Collaborate on: DevOps & cloud automation projects<br>💬 Ask me about: Python scripts, Linux, AWS, Git<br>⚡ Fun fact: I automate everything—even my morning reminders!
 
 
 # 💻 Tech Stack:
