@@ -78,20 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivenkatesh03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srivenkatesh03&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivenkatesh03&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
